@@ -9,3 +9,5 @@ pip-selfcheck.json
 clave\.pub
 
 \.\.\.
+
+\.ipynb_checkpoints/
